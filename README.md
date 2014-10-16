@@ -1,5 +1,5 @@
-Adobe Marketing Cloud Open Source Brews
-=======================================
+Adobe Marketing Cloud Brews
+===========================
 
 [Homebrew](http://brew.sh) Formulae for Adobe Marketing Cloud tools. To use:
 ```
