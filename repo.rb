@@ -1,6 +1,6 @@
 require "formula"
 
-class AdobeRepo < Formula
+class Repo < Formula
   homepage "https://github.com/Adobe-Marketing-Cloud/tools/tree/master/repo"
   url "https://github.com/Adobe-Marketing-Cloud/tools/releases/download/repo-v1.1/repo"
   sha1 "b8005fcd775bc9a5d5018ca2329d8cd31d941817"
