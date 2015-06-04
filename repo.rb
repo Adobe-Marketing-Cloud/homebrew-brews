@@ -2,9 +2,9 @@ require "formula"
 
 class Repo < Formula
   homepage "https://github.com/Adobe-Marketing-Cloud/tools/tree/master/repo"
-  url "https://github.com/Adobe-Marketing-Cloud/tools/releases/download/repo-v1.1/repo"
-  sha1 "b8005fcd775bc9a5d5018ca2329d8cd31d941817"
-  version "1.1"
+  url "https://github.com/Adobe-Marketing-Cloud/tools/releases/download/repo-v1.2/repo"
+  sha1 "ea4f3e5404d81d9fb2c4d7e1804b128426fcd2a1"
+  version "1.2"
 
   depends_on "curl"
   depends_on "rsync"
