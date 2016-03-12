@@ -1,10 +1,9 @@
-require "formula"
-
 class Repo < Formula
+  desc "FTP-like tool for JCR content"
   homepage "https://github.com/Adobe-Marketing-Cloud/tools/tree/master/repo"
-  url "https://github.com/Adobe-Marketing-Cloud/tools/releases/download/repo-v1.2/repo"
-  sha1 "ea4f3e5404d81d9fb2c4d7e1804b128426fcd2a1"
-  version "1.2"
+  url "https://github.com/Adobe-Marketing-Cloud/tools/releases/download/repo-v1.3/repo"
+  version "1.3"
+  sha256 "9f8dc24a7bccaf72bad409b66b165b0eaf9d02feb24bd1f7a1f9df493c0f9fcc"
 
   conflicts_with "repo", :because => "Android's repo also provides a 'repo' binary/script"
 
