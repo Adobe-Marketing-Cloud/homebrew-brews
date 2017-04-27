@@ -2,9 +2,9 @@ require 'formula'
 
 class Filevault < Formula
   homepage 'http://dev.day.com/docs/en/crx/current/how_to/how_to_use_the_vlttool.html'
-  url 'http://repo.maven.apache.org/maven2/org/apache/jackrabbit/vault/vault-cli/3.1.28/vault-cli-3.1.28-bin.tar.gz'
-  sha256 '3687b27e729e9ed4ba3533d0c563f80b84d8ecb5cdf9ed2f1ceb559478d053ca'
-  version '3.1.28'
+  url 'http://repo.maven.apache.org/maven2/org/apache/jackrabbit/vault/vault-cli/3.1.38/vault-cli-3.1.38-bin.tar.gz'
+  sha256 '737191bb16ae94c048173fb11a6aa4dd68b275231bc528d4d060d2b2f6b3c948'
+  version '3.1.38'
 
   def install
     # Remove windows files
